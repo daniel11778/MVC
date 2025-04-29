@@ -1,0 +1,2 @@
+danielCorreo@gmail.com,elPepe
+otroUsuario@mail.com,otraContraseña
